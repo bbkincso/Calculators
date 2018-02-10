@@ -1,0 +1,7 @@
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

@@ -1,0 +1,16 @@
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.exe
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.pdb
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\CalculatorApp.exe.config
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\obj\Debug\OperationsTest.csprojResolveAssemblyReference.cache
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\obj\Debug\OperationsTest.csproj.CoreCompileInputs.cache
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\Kancsi\Desktop\CalculatorApp\CalculatorTest\obj\Debug\CalculatorTest.pdb
